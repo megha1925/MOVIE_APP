@@ -1,0 +1,12 @@
+.trending {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  z-index: 999;
+  /* padding-bottom: 50px; */
+}
+
+.trending_movies {
+  padding-bottom: 10%;
+}
